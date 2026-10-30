@@ -4,3 +4,5 @@ sum = a + b
 sub = a - b
 print("Addition: ", sum)
 print("Subtraction: ", sub)
+print("Multiplication: ", a * b)
+print("Division: ", a / b)
